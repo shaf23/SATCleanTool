@@ -14,3 +14,19 @@
 
 ## **Installation and use**:
 Once you've met the requirements, you can then install the ZIP under the "Releases" section on the right hand side called "SATCleanToolv1.0" which contains the executable to this script. Make sure to **extract the entire ZIP into one folder** and **not delete any files** as this'll break the program if you do so. When running the program, adhere to the instructions and make sure to also **toggle dark mode on Kami**  otherwise this script will not work. If for any reason you need to stop the program, drag your cursor to the top right corner of your screen and it'll automatically terminate. Here's a step-by-step video tutorial:
+
+[![Watch the video](https://img.youtube.com/vi/mG5hxMzK3ZE/maxresdefault.jpg)](https://youtu.be/mG5hxMzK3ZE)
+
+### **Timestamps**:
+
+Installing Python, pyautogui module, and Kami Chrome Extension — 
+     0:00 
+     
+Downloading the Script —
+     1:51
+     
+Using the program on a QAS —
+     2:40
+     
+End Results —
+     4:58
